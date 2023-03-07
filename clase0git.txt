@@ -1,3 +1,4 @@
 HOSTORIA DE LIZ , CLASE 1 DE GIT EN PLATZI 
 edad 23 años , 
 nacida en bolivia 
+estoy anadiendo estas nuevas lineas 
